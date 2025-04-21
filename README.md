@@ -12,14 +12,17 @@
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨‍💻 About Me
 
-- 🧠 &nbsp; .NET developer focused on building scalable, clean, and cloud-ready backend systems
-- 💼 &nbsp; Currently leveling up in ASP.NET Core, EF Core, DDD, DevOps (Docker/K8s), and system design
-- 🎯 &nbsp; Passionate about crafting maintainable code and improving backend performance
-- 🛠️ &nbsp; Building side projects to apply clean architecture, messaging, and caching patterns
-- 🤝 &nbsp; I enjoy collaborating with teams that push each other to grow, write better code, and design smarter architectures.
-- ☕ &nbsp; A cup of coffee is the best code debugger for the mind.
+- 🧠 &nbsp; .NET developer focused on building scalable, clean, and cloud-ready backend systems  
+- 🎓 &nbsp; ITI graduate (9-month Professional Diploma in System Development and Business Intelligence)  
+- 💼 &nbsp; Currently leveling up in ASP.NET Core, EF Core, DDD, DevOps (Docker/K8s), and system design  
+- 🎯 &nbsp; Passionate about crafting maintainable code and improving backend performance  
+- 🛠️ &nbsp; Building side projects to apply clean architecture, messaging, and caching patterns  
+- 🤝 &nbsp; I enjoy collaborating with teams that push each other to grow, write better code, and design smarter architectures  
+- ☕ &nbsp; A cup of coffee is the best code debugger for the mind  
+
+
 
   
 ### Contact with Me:
